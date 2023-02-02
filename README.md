@@ -4,7 +4,8 @@
 </div>  
 <div align="center">
   <p>👩🏻‍💻 Estudando e focado em Front End;</p>
-  <p>📚 Linguagens que aprendi na faculdade: POO em Java, Programação WEB em HTML, CSS, JavaScript, Mysql, Python.</p>
+  <p>📚 Linguagens que aprendi na faculdade: <br>
+    POO em Java, Programação WEB em HTML, CSS, JavaScript, Mysql, Python.</p>
 </div>   
 
 <div align="center">
