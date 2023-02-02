@@ -1,4 +1,4 @@
-## Olá Meu nome é Kennes Eduardo estudo Análise e Desemvolvimento de Sistemas!
+## Olá Meu nome é Kennes Eduardo e estou cursando o 5° Período em Análise e Desemvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/KennesEduardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennesEduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
