@@ -5,7 +5,7 @@
 <div align="center">
   <p>👩🏻‍💻 Estudando e focado em Front End;
   <br>📚 Linguagens que aprendi na faculdade: <br>
-    POO em Java, Programação WEB em HTML, CSS, JavaScript, Mysql, Python.</p>
+    📚 POO em Java, Programação WEB em HTML, CSS, JavaScript, Mysql, Python.</p>
 </div>   
 
 <div align="center">
