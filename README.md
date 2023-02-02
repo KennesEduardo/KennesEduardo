@@ -1,5 +1,5 @@
-## Olá Meu nome é Kennes Eduardo.
-## Graduando em Análise e Desemvolvimento de Sistemas atualmente no 5° Período.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F9CA1&vCenter=true&width=435&lines=Ol%C3%A1+Sejam+bem-vindos(as);Sou+Kennes+Eduardo.;Tenho+22+anos.;Estudando+para+ser+Dev.+Front+End" alt="Typing SVG" /></a>
+
 <div align="center">
   <a href="https://github.com/KennesEduardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennesEduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
